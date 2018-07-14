@@ -1,6 +1,7 @@
 # HTML-Crash-Course
 This project is just the code that was used in the HTML Crash Course that I found on YouTube. 
 I am also including a few notes I took during the lesson.
+        
     html stands for Hyper Text Markup Language
     not a programming language
 
